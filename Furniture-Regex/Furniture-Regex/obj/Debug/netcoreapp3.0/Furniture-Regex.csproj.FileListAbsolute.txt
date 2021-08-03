@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\bin\Debug\netcoreapp3.0\Furniture-Regex.exe
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\bin\Debug\netcoreapp3.0\Furniture-Regex.deps.json
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\bin\Debug\netcoreapp3.0\Furniture-Regex.runtimeconfig.json
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\bin\Debug\netcoreapp3.0\Furniture-Regex.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\bin\Debug\netcoreapp3.0\Furniture-Regex.dll
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\bin\Debug\netcoreapp3.0\Furniture-Regex.pdb
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\obj\Debug\netcoreapp3.0\Furniture-Regex.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\obj\Debug\netcoreapp3.0\Furniture-Regex.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\obj\Debug\netcoreapp3.0\Furniture-Regex.AssemblyInfo.cs
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\obj\Debug\netcoreapp3.0\Furniture-Regex.dll
+C:\Users\kolev\source\repos\Furniture-Regex\Furniture-Regex\obj\Debug\netcoreapp3.0\Furniture-Regex.pdb
