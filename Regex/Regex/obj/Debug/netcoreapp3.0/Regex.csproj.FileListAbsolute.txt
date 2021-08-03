@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\Regex\Regex\bin\Debug\netcoreapp3.0\Regex.exe
+C:\Users\kolev\source\repos\Regex\Regex\bin\Debug\netcoreapp3.0\Regex.deps.json
+C:\Users\kolev\source\repos\Regex\Regex\bin\Debug\netcoreapp3.0\Regex.runtimeconfig.json
+C:\Users\kolev\source\repos\Regex\Regex\bin\Debug\netcoreapp3.0\Regex.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\Regex\Regex\bin\Debug\netcoreapp3.0\Regex.dll
+C:\Users\kolev\source\repos\Regex\Regex\bin\Debug\netcoreapp3.0\Regex.pdb
+C:\Users\kolev\source\repos\Regex\Regex\obj\Debug\netcoreapp3.0\Regex.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\Regex\Regex\obj\Debug\netcoreapp3.0\Regex.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\Regex\Regex\obj\Debug\netcoreapp3.0\Regex.AssemblyInfo.cs
+C:\Users\kolev\source\repos\Regex\Regex\obj\Debug\netcoreapp3.0\Regex.dll
+C:\Users\kolev\source\repos\Regex\Regex\obj\Debug\netcoreapp3.0\Regex.pdb
